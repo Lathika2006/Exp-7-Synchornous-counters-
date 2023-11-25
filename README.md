@@ -70,7 +70,8 @@ RegisterNumber:  23012411
 
 ## RTL DIAGRAM
 
-![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/dee5b12e-bbab-468c-a1ec-b3fc039b8266)
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/06c716e5-dc66-440e-a49e-39e3cd03b759)
+
 
 ## TIMING DIAGRAM
 
