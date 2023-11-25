@@ -53,36 +53,50 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: LATHIKA L.J
+RegisterNumber:  23012411
+
 */
+## UP COUNTER
+
+## CODE
+
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/6bb69ed2-0003-4ee9-beda-2e71b664522e)
+
+## TRUTH TABLE
+
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/50b93d04-7251-44cf-97d9-091940a3c098)
+
+## RTL DIAGRAM
+
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/dee5b12e-bbab-468c-a1ec-b3fc039b8266)
+
+## TIMING DIAGRAM
+
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/c70261e7-0331-4f8c-8833-eaea74b30041)
 
 
+### DOWN COUNDER
+
+## Code
+
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/423d8435-6227-4bcb-838d-0c6aa14d7624)
+
+## Truth Table
+
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/f8740c06-8565-4afd-9952-d6c6ed1e7a36)
+
+## RTL Diagram
+
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/70cbaed9-6901-4bf6-95a5-d9363a214af9)
 
 
+## Timing Diagram
+
+![image](https://github.com/Lathika2006/Exp-7-Synchornous-counters-/assets/148959215/f0e816b4-d772-4050-963a-df1036b08ed2)
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+## RESULTS 
 
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
-
-
-
-### RESULTS 
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
